@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "syscall.h": "c",
+        "syscall-nr.h": "c",
+        "interrupt.h": "c",
+        "inode.h": "c"
+    }
+}

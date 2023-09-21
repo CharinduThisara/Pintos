@@ -1,0 +1,2 @@
+/home/imct/CS2042Labs/pintos/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/imct/CS2042Labs/pintos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
